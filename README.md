@@ -25,7 +25,6 @@ architecture.
 | 10 | `10_dashboard.py` | Streamlit dashboard |
 
 Additional utilities:
-
 - `config.py`
 - `utils.py`
 - `run_pipeline.py`
@@ -33,7 +32,6 @@ Additional utilities:
 - `make_*_docx.py` (automatic report generation)
 
 ---
-
 ## Installation
 
 ```bash
@@ -91,7 +89,6 @@ A detailed discussion of the experimental findings can be found in:
 - `results/figures/`
 
 ---
-
 ## Repository Contents
 
 - Python source code (`*.py`)
@@ -103,13 +100,11 @@ A detailed discussion of the experimental findings can be found in:
   pipeline.
 
 ---
-
 ## Citation
 
 If you use this repository in your research, please cite the corresponding publication (to be added after publication).
 
 ---
-
 ## License
 
 This project is released for academic and research purposes. Please ensure compliance with the licensing terms of the original CICIoT2023 dataset.
